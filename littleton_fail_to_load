@@ -1,0 +1,47 @@
+[09:13:01] [main/INFO]:ModLauncher running: args [--username, Thaylar, --version, forge-47.4.0, --gameDir, F:\CurseForge\Instances\MCol Modpack, --assetsDir, F:\CurseForge\Install\assets, --assetIndex, 5, --uuid, 4d639a3170db46118e2c9dab204fe330, --accessToken, ????????, --clientId, MDZjMTk4YmEtOTA3ZC00ZjYwLWJkMzUtMzU2Yjg0OGZiMWE5, --xuid, 2533274890992146, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[09:13:01] [main/INFO]:ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[09:13:01] [main/INFO]:Loading ImmediateWindowProvider fmlearlywindow
+[09:13:01] [main/INFO]:Trying GL version 4.6
+[09:13:01] [main/INFO]:Requested GL version 4.6 got version 4.6
+[09:13:01] [main/INFO]:SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/F:/CurseForge/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[09:13:01] [pool-2-thread-1/INFO]:GL info: NVIDIA GeForce RTX 2080 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 566.03, NVIDIA Corporation
+[09:13:02] [main/INFO]:Found mod file Actually Useful Stonecutter-4.0.3 mc 1.19.3.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file AmbientEnvironment-forge-1.20.1-11.0.0.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file AmbientSounds_FORGE_v6.1.6_mc1.20.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file amendments-1.20-1.2.19.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file ash_api-forge-3.0.2+1.20.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file balm-forge-1.20.1-7.3.18-all.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file beautify-2.0.2.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file blockui-1.20.1-1.0.156-RELEASE.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file CMDCam_FORGE_v2.2.0_mc1.20.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file cobweb-forge-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file collective-1.20.1-7.93.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file configured-forge-1.20.1-2.2.3.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file craftingtweaks-forge-1.20.1-18.2.5.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file create-1.20.1-6.0.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file CreativeCore_FORGE_v2.12.31_mc1.20.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file curios-forge-5.12.1+1.20.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file DireColonies-2.2.0.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file embeddium-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file entity_model_features_forge_1.20.1-2.4.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file entity_texture_features_forge_1.20.1-6.2.9.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file FarmersDelight-1.20.1-1.2.7.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file GlitchCore-forge-1.20.1-0.0.1.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file handcrafted-forge-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file inventoryhud.forge.1.20.1-3.4.26.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file Jade-1.20.1-Forge-11.12.3.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file JadeAddons-1.20.1-Forge-5.3.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file JadeColonies-1.20.1-1.4.2.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file jei-1.20.1-forge-15.20.0.106.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file jmi-forge-1.20.1-0.14-48.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file journeymap-1.20.1-5.10.3-forge.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file light-overlay-8.0.0-forge.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file littleton.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file minecolonies-1.20.1-1.1.814-snapshot.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file moonlight-1.20-2.13.71-forge.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
+[09:13:02] [main/INFO]:Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at F:\CurseForge\Instances\MCol Modpack\mods}
